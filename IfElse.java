@@ -1,4 +1,4 @@
-package Java_Lessions;
+package Java_Lessons;
 
 public class IfElse {
     public static void main(String[] args) {
